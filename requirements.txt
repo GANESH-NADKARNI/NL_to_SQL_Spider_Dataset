@@ -1,0 +1,26 @@
+# NL2SQL Research - Requirements
+# Install with: pip install -r requirements.txt
+
+# Core ML
+numpy>=1.24.0
+pandas>=2.0.0
+scikit-learn>=1.3.0
+scipy>=1.11.0
+
+# Deep Learning (LSTM)
+tensorflow>=2.13.0
+
+# Transformers (T5)
+transformers>=4.35.0
+torch>=2.0.0
+tokenizers>=0.15.0
+sentencepiece>=0.1.99
+
+# Web App
+streamlit>=1.28.0
+plotly>=5.17.0
+
+
+
+# Utilities
+tqdm>=4.66.0
