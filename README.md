@@ -5,6 +5,14 @@ A Streamlit-based research platform for comparing 4 NL2SQL models:
 
 ---
 
+## 🤗 Hosted Model
+
+[![Hugging Face](https://img.shields.io/badge/🤗%20Model-nl2sql--comparative--study--conit2026-FFD21E?style=for-the-badge)](https://huggingface.co/Ganesh-Nadkarni/nl2sql-comparative-study-conit2026)
+
+This model accompanies the paper *"Comparative Study of AI Models for Natural Language to SQL Query Generation"* (CONIT 2026, IEEE Xplore).
+
+---
+
 ## 📁 Project Structure
 
 ```
